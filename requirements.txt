@@ -1,0 +1,5 @@
+garminexport==0.4.2
+cloudscraper
+readchar
+requests
+pwinput
